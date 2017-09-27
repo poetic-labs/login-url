@@ -7,7 +7,7 @@ Login via a `token` url parameter for react-router.
 Using npm:
 
 ```shell
-$ npm i --save url-login
+$ npm i --save login-url
 ```
 
 ## Usage
