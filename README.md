@@ -22,4 +22,4 @@ import LoginURL from 'login-url';
 </Router>
 ```
 
-![Demo](/test/demo.gif?raw=true "Demo")
+![Demo](https://raw.githubusercontent.com/poetic-labs/login-url/master/test/demo.gif)

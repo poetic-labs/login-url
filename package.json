@@ -3,7 +3,18 @@
   "version": "1.0.0",
   "description": "Simple login via url with react-router",
   "license": "MIT",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/poetic-labs/login-url"
+  },
   "author": "Jimmy Thigpen",
+  "keywords": [
+    "react",
+    "router",
+    "react-router",
+    "url",
+    "login"
+  ],
   "main": "./dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
